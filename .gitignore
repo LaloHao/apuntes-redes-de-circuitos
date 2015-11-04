@@ -1,0 +1,9 @@
+_minted-clase/
+c/
+ltxpng/
+
+# !.gitignore
+# !*.tex
+# !*.pdf
+# !*.org
+# !data/**/*.png
